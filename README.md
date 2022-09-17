@@ -26,7 +26,7 @@
 </br>
 
 <h2>🖥️​ Móveis Customizados </h2>
-<img alt="preview" title="NLW eSports" src="./readme/preview.png" width="65%">
+<img alt="preview" title="moveis customizados" src="./readme/preview.png" width="65%">
 
 </br>
 

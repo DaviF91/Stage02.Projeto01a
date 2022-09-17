@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://davif91.github.io/Stage02.Projeto01/" targert="_blank"> ▶️ Visualizar Página </a>
+  <a href="https://davif91.github.io/Stage02.Projeto01a/" targert="_blank"> ▶️ Visualizar Página </a>
 </div>
 </br>
 
